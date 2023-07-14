@@ -1,1 +1,1 @@
-"# So beauty" 
+# So beauty
